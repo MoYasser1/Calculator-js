@@ -4,11 +4,11 @@ This is a simple calculator project built using HTML, CSS, and JavaScript. The c
 
 ## Demo
 
-You can see a live demo of the calculator [here](https://your-demo-link](https://moyasser1.github.io/Calculator-js/).
+You can see a live demo of the calculator [here]([https://your-demo-link](https://moyasser1.github.io/Calculator-js/)].
 
 ## Screenshots
 
-![Calculator Screenshot](/path/to/screenshot.png)
+![Calculator Screenshot](/screenshot.png)
 
 ## Features
 
@@ -33,4 +33,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Inspiration: Mention any sources or projects that inspired your work.
 Icons: Credit any icon sources if used.
 etc.
-لاؤ 
