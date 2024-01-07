@@ -4,7 +4,7 @@ This is a simple calculator project built using HTML, CSS, and JavaScript. The c
 
 ## Demo
 
-You can see a live demo of the calculator [here]([https://your-demo-link](https://moyasser1.github.io/Calculator-js/)].
+You can see a live demo of the calculator here..([https://your-demo-link](https://moyasser1.github.io/Calculator-js/)].
 
 ## Screenshots
 
